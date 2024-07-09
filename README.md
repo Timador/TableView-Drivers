@@ -170,7 +170,8 @@ public class Main extends Application {
 
 
 
-![image](https://github.com/Timador/TableView-Drivers/assets/168133781/f09a9a96-ee39-4ef5-b595-ba3fa09e95bb)
+![image](https://github.com/Timador/TableView-Drivers/assets/168133781/d3b8a710-a3a3-40b5-a35f-6ddcb84121a9)
+
 
 
 
